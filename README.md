@@ -5,6 +5,8 @@ Welcome to my final task from project based interview by Bank Muamalat (Rakamin)
 
 🔹 **Dataset**: Download in this GitHub from Bank Muamalat (Rakamin)  
 
+🔹 **Presentation**: [Dashboard Presentation Here](https://docs.google.com/presentation/d/1vRTjh05r3Ftt2ULYXcyrh5qLIcH9DQyvg0tFKVxgkGU/edit?usp=sharing)
+
 🔹 **Dashboard**: [Interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/9a0f1127-ff1a-4584-af7a-c89042f929b8) 🖥️  
 
 ## 📊 Key Insights  
@@ -22,7 +24,9 @@ Check out the dashboard for all the insights! 🎯
 ## 👍Recommendations
 
 Based on the insights, here are the recommendations :
--
+- Meningkatkan penjualan di kota dengan potensi tinggi untuk menumbuhkan market share di wilayah yang belum optimal. Seperti mengevaluasi stategi pemasaran lokal pada kota dengan penjualan terendah (Metairi) dan membuat loyalty program untuk kota dengan penjualan tinggi (Washington)
+- Meningkatkan engagement pelanggan dengan mengirim email promo ke pelanggan aktif dan berikan diskon khusus untuk pelanggan di kota atau kategori yang penjualannya turun.
+- Mengevaluasi produk dengan penjualan rendah, seperti evaluasi harga, kualitas, atau promosinya. Bisa juga untuk mempertimbangkan untuk mengganti produk baru yang lebih kompetitif.
 
 ## 🚀 Tools Used   
 
